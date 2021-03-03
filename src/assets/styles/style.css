@@ -1,0 +1,24 @@
+
+.MuiCollapse-wrapperInner{
+    margin-top: 10px!important;
+}
+.MuiTreeItem-content{
+    margin-top: 10px!important;
+}
+
+.BudgetedStyle {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row-reverse;
+    width: 100%;
+}
+.MuiTreeItem-root{
+    width: 100%;
+}
+
+.ButtonsStyle button{
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
